@@ -1,0 +1,11 @@
+.container {
+  width: 800px;
+  margin-left: 500px;
+  margin-top: 40px;
+}
+#clear {
+  width: 100px;
+}
+#todos {
+  margin-top: 30px;
+}
